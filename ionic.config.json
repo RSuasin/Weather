@@ -1,6 +1,6 @@
 {
   "name": "weather",
-  "app_id": "",
+  "app_id": "d31c6ffd",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
